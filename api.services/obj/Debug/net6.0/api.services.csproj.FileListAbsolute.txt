@@ -1,0 +1,15 @@
+C:\Users\fruggiero\source\repos\api.services\obj\Debug\net6.0\api.services.csproj.AssemblyReference.cache
+C:\Users\fruggiero\source\repos\api.services\obj\Debug\net6.0\api.services.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fruggiero\source\repos\api.services\obj\Debug\net6.0\api.services.AssemblyInfoInputs.cache
+C:\Users\fruggiero\source\repos\api.services\obj\Debug\net6.0\api.services.AssemblyInfo.cs
+C:\Users\fruggiero\source\repos\api.services\obj\Debug\net6.0\api.services.csproj.CoreCompileInputs.cache
+C:\Users\fruggiero\source\repos\api.services\bin\Debug\net6.0\api.services.deps.json
+C:\Users\fruggiero\source\repos\api.services\bin\Debug\net6.0\api.services.dll
+C:\Users\fruggiero\source\repos\api.services\bin\Debug\net6.0\api.services.pdb
+C:\Users\fruggiero\source\repos\api.services\bin\Debug\net6.0\api.models.dll
+C:\Users\fruggiero\source\repos\api.services\bin\Debug\net6.0\api.models.pdb
+C:\Users\fruggiero\source\repos\api.services\obj\Debug\net6.0\api.services.dll
+C:\Users\fruggiero\source\repos\api.services\obj\Debug\net6.0\refint\api.services.dll
+C:\Users\fruggiero\source\repos\api.services\obj\Debug\net6.0\api.services.pdb
+C:\Users\fruggiero\source\repos\api.services\obj\Debug\net6.0\ref\api.services.dll
+C:\Users\fruggiero\source\repos\api.services\obj\Debug\net6.0\api.serv.D1BD4914.Up2Date
